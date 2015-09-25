@@ -1,0 +1,14 @@
+{
+  "name": "AgileWorkLog",
+  "version": "0.1.0",
+  "dependencies": {},
+  "devDependencies": {
+    "grunt": "^0.4.1"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  },
+  "scripts": {
+    "postinstall": "bower install"
+  }
+}
